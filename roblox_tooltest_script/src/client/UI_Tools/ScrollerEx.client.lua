@@ -1,0 +1,2 @@
+-- InfiniteScroller = require(game:GetService("ReplicatedFirst"):WaitForChild("Mod"):WaitForChild("InfiniteScroller"));
+-- scroller = InfiniteScroller(script.Parent);
